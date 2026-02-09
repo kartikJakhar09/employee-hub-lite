@@ -14,10 +14,8 @@ The project focuses on core HR functionality and demonstrates end-to-end full-st
 - Add a new employee with:
   - Employee ID (unique)
   - Full Name
-  - Email Address
   - Department
 - View a list of all employees
-- Delete an employee
 
 ### 2. Attendance Management
 - Mark attendance for an employee with:
@@ -76,13 +74,3 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
-
-
-
-
-
-Yes, you can!
-
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
