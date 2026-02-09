@@ -1,18 +1,35 @@
-# Welcome to your Lovable project
+# HRMS Lite – Full-Stack Coding Assignment
 
-## Project info
+## 📌 Project Overview
+HRMS Lite is a lightweight, web-based Human Resource Management System designed to manage employee records and track daily attendance.  
+The application simulates a basic internal HR tool with a clean, professional UI and a stable backend.
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+The project focuses on core HR functionality and demonstrates end-to-end full-stack development, including frontend UI, backend APIs, database persistence, validations, and deployment.
 
-## How can I edit this code?
+---
 
-There are several ways of editing your application.
+## ✨ Features
 
-**Use Lovable**
+### 1. Employee Management
+- Add a new employee with:
+  - Employee ID (unique)
+  - Full Name
+  - Email Address
+  - Department
+- View a list of all employees
+- Delete an employee
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+### 2. Attendance Management
+- Mark attendance for an employee with:
+  - Date
+  - Status (Present / Absent)
+- View attendance records per employee
 
-Changes made via Lovable will be committed automatically to this repo.
+### 3. UI & UX
+- Clean, professional, and responsive interface
+- Reusable components
+- Loading states, empty states, and error handling
+- Intuitive navigation
 
 **Use your preferred IDE**
 
@@ -60,11 +77,9 @@ This project is built with:
 - shadcn-ui
 - Tailwind CSS
 
-## How can I deploy this project?
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
 
-## Can I connect a custom domain to my Lovable project?
+
 
 Yes, you can!
 
